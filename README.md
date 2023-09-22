@@ -1,1 +1,1 @@
-Se crea un proyecto donde se consume la API del clima en el cual por medio de twilio nos envia de manera diaria un mensaje con el pronostico de lluvia para ese dia.
+Se crea un proyecto donde se consume la API del clima en el cual por medio de twilio nos envia de manera diaria un mensaje con el pronostico de lluvia para ese dia.![Imagen de WhatsApp 2023-09-22 a las 13 57 42](https://github.com/alejandrazapatap/pronostico_clima/assets/97615442/382d6cb8-b437-45f8-bfcb-b36f33e69a14)
