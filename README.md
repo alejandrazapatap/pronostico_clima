@@ -1,0 +1,1 @@
+Se crea un proyecto donde se consume la API del clima en el cual por medio de twilio nos envia de manera diaria un mensaje con el pronostico de lluvia para ese dia.
